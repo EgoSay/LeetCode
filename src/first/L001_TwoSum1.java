@@ -8,7 +8,7 @@ import java.util.Map;
  * @author codeAC
  * @date 2018/3/25 16:28
  */
-public class TwoSum1 {
+public class L001_TwoSum1 {
     public int[] twoSum(int[] nums, int target) {
         //初始解
 //        int i =nums.length;
