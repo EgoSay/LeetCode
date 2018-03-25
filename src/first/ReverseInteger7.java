@@ -9,7 +9,7 @@ import java.util.Scanner;
 /**
  * @author codeAC
  */
-public class L007 {
+public class ReverseInteger7 {
     public static int reverse(int x) {
         // write your code here
         List<Integer> listNum=new ArrayList<>();
